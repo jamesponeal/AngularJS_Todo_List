@@ -1,3 +1,6 @@
-# treehouse-todo-angular
+# AngularJS Todo List
 
-This is a ToDo list built using a tutorial on tree house to learn Angular.
+###DESCRIPTION:
+This is a simple ToDo list built using AngularJS.
+
+http://jims-angular-todo-list.bitballoon.com/
